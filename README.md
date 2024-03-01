@@ -9,6 +9,6 @@ Tambien se explica el código generado para la APP instalada en el móvil. Se ha
 
 - Enlace a repositorio GitHub para descargar ejemplo de código para un ESP32. [AQUÍ](https://github.com/Ricardo1366/ESP32_ControlMovil)
 
-- Código para APP inventor. [Descarga del ejemplo](https://github.com/AsociacionMakerAlicante/Taller_Arduino_2024/blob/main/Ejemplos/ControlMovil.aia)
+- Código para APP inventor. [Descarga del ejemplo](https://github.com/AsociacionMakerAlicante/Taller_Arduino_2024/raw/main/Ejemplos/ControlMovil.aia)
   
 
