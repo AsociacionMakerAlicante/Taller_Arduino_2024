@@ -1,4 +1,4 @@
-# Taller_Arduino_2024
+# Taller Arduino 2024
 Aprende a manejar tu Arduino desde el móvil. 
 
 En el curso se explicarán dos códigos de ejemplo. Uno para una placa de Arduini UNO y otro para un ESP32. Aunque en los ejemplos se utilizan estas placas el código es facilmente exportable a cualquier otra placa.
