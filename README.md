@@ -13,7 +13,7 @@ Tambien se explica el código generado para la APP instalada en el móvil. Se ha
   
 
 ### Descripción de los programas
-<ins>Código para Arduino</ins>
+<ins><b>Código para Arduino</b></ins>
 
 El código de Arduino consta de una función encargada de detectar cuando se recibe un envío de datos vía bluetooth y separar la cadena recibida en los distintos comandos.
 
@@ -30,3 +30,15 @@ El programa tiene tres funciones predefinidas y mediante la cadena enviada por b
 5. __Apagar.__
    
    Apaga el led. No necesita parámetros.
+
+<ins><b>Código para el móvil</b></ins>
+
+La APP del móvil consta de una lista desplegable con las funciones implementadas en Arduino y tres campos para que el usuario informe el valor de los distintos parámetro.
+
+La APP se ha desarrollado con APP inventor. Este software permite correr aplicaciones en móviles Android y IOS. Existen dos formas de hacer funcionar la APP en el móvil. La primera consiste en ejecutar APP inventor en el móvil y mediante un código QR cargar la aplicación. 
+
+La segunda es generando un fichero de instalación ".apk". Aunque al no venir de una tienda de Android necesitarás configurar tu teléfono para que te permita instalar aplicaciones de "Fuentes desconocidas".
+
+Si tu móvil es IOS solo tendrás disponible la primera opción.
+
+![](https://github.com/AsociacionMakerAlicante/Taller_Arduino_2024/blob/main/Imagenes/Logo%20Maker%20redondo%20(Electronica).jfif)
