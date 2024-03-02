@@ -12,4 +12,4 @@ Tambien se explica el código generado para la APP instalada en el móvil. Se ha
 - Código para APP inventor. [Descarga del ejemplo](https://github.com/AsociacionMakerAlicante/Taller_Arduino_2024/raw/main/Ejemplos/ControlMovil.aia)
   
 
-## Descripción de los prorgramas
+### Descripción de los prorgramas
