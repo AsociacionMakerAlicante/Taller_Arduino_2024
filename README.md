@@ -21,9 +21,9 @@ La cadena utiliza el caracter "," (coma) como separador. La estructura de la mis
 
 El programa tiene tres funciones predefinidas y mediante la cadena enviada por bluetooth se esjecutará la función indicada tomando como parámetros los valores enviados. Las tres funciones son:
 
-1. Blink.
+1. __Blink.__
    Hace parpadear el led interno de la placa un número determinado de veces controlando el tiempo que permacece encendido y el que permanece apagado (en milisegundos). Necesita tres parámetros. A) Tiempo encendido. B) Tiempo apagado. C) Número de repeticiones.
-2. Encender.
+2. __Encender.__
    Enciende el led de forma fija. No necesita parámetros.
-3. Apagar.
+3. __Apagar.__
    Apaga el led. No necesita parámetros.
